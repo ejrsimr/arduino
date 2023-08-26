@@ -1,6 +1,7 @@
 // use an IR remote to control a RGB LED
 // ejr: 2023-08-26
 // combination of lesson 4 and lesson 14
+// IR remote is from elegoo kit
 
 /*-----( Includes )-----*/
 #include "IRremote.h"
